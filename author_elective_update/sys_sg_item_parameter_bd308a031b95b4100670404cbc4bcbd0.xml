@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Update Short Description</name>
+        <parent>3dda79cb1b55b4100670404cbc4bcb17</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-16 19:52:35</sys_created_on>
+        <sys_id>bd308a031b95b4100670404cbc4bcbd0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Update Short Description</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_bd308a031b95b4100670404cbc4bcbd0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-16 19:53:22</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>51513e31db03dfc07d8cf22ebf96197d</instance_id>
+        <instance_name>dev63432</instance_name>
+        <name>sys_sg_item_parameter_bd308a031b95b4100670404cbc4bcbd0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>Update Short Description</name><parent>3dda79cb1b55b4100670404cbc4bcb17</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-16 19:52:35</sys_created_on><sys_id>bd308a031b95b4100670404cbc4bcbd0</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Update Short Description</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_item_parameter_bd308a031b95b4100670404cbc4bcbd0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-16 19:53:22</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>113211254</payload_hash>
+        <record_name>Update Short Description</record_name>
+        <reverted_from/>
+        <source>d346e20e1bd9f0100670404cbc4bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-16 19:53:23</sys_created_on>
+        <sys_id>b870cacf1b55b4100670404cbc4bcbcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ab0e173530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-16 19:53:23</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>f070cacf0955b41054d2ca8be9014bcd</update_guid>
+        <update_guid_history>f070cacf0955b41054d2ca8be9014bcd:113211254,4140ca03ec95b410ba2b50e211ced6c7:1029220086</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-16 19:55:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>0193e3205e074e7c80779ef6c4b7c790</sys_id>
+        <sys_metadata>bd308a031b95b4100670404cbc4bcbd0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Short Description</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_bd308a031b95b4100670404cbc4bcbd0</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_bd308a031b95b4100670404cbc4bcbd0">b870cacf1b55b4100670404cbc4bcbcd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-16 19:55:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
